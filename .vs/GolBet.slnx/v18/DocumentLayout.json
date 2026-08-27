@@ -3,6 +3,38 @@
   "WorkspaceRootPath": "C:\\reposITM\\golbet_progsoft_wv\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\reposITM\\golbet_progsoft_wv\\GolBet.Repositories\\Migrations\\20260827003033_InitialDatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:GolBet.Repositories\\Migrations\\20260827003033_InitialDatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E81E5965-274E-DA5A-620D-7DD0CE19BE7E}|GolBet.Web\\GolBet.Web.csproj|c:\\repositm\\golbet_progsoft_wv\\golbet.web\\golbet.web.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E81E5965-274E-DA5A-620D-7DD0CE19BE7E}|GolBet.Web\\GolBet.Web.csproj|solutionrelative:golbet.web\\golbet.web.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E81E5965-274E-DA5A-620D-7DD0CE19BE7E}|GolBet.Web\\GolBet.Web.csproj|c:\\repositm\\golbet_progsoft_wv\\golbet.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E81E5965-274E-DA5A-620D-7DD0CE19BE7E}|GolBet.Web\\GolBet.Web.csproj|solutionrelative:golbet.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E81E5965-274E-DA5A-620D-7DD0CE19BE7E}|GolBet.Web\\GolBet.Web.csproj|c:\\repositm\\golbet_progsoft_wv\\golbet.web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E81E5965-274E-DA5A-620D-7DD0CE19BE7E}|GolBet.Web\\GolBet.Web.csproj|solutionrelative:golbet.web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60F14AD4-968F-4088-888A-510848039704}|GolBet.Repositories\\GolBet.Repositories.csproj|c:\\repositm\\golbet_progsoft_wv\\golbet.repositories\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60F14AD4-968F-4088-888A-510848039704}|GolBet.Repositories\\GolBet.Repositories.csproj|solutionrelative:golbet.repositories\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65C85B0F-F140-0F8A-C186-5A3E3C6CC47E}|GolBet.Entities\\GolBet.Entities.csproj|c:\\repositm\\golbet_progsoft_wv\\golbet.entities\\bet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65C85B0F-F140-0F8A-C186-5A3E3C6CC47E}|GolBet.Entities\\GolBet.Entities.csproj|solutionrelative:golbet.entities\\bet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65C85B0F-F140-0F8A-C186-5A3E3C6CC47E}|GolBet.Entities\\GolBet.Entities.csproj|c:\\repositm\\golbet_progsoft_wv\\golbet.entities\\team.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65C85B0F-F140-0F8A-C186-5A3E3C6CC47E}|GolBet.Entities\\GolBet.Entities.csproj|solutionrelative:golbet.entities\\team.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65C85B0F-F140-0F8A-C186-5A3E3C6CC47E}|GolBet.Entities\\GolBet.Entities.csproj|c:\\repositm\\golbet_progsoft_wv\\golbet.entities\\enums\\matchstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65C85B0F-F140-0F8A-C186-5A3E3C6CC47E}|GolBet.Entities\\GolBet.Entities.csproj|solutionrelative:golbet.entities\\enums\\matchstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{E81E5965-274E-DA5A-620D-7DD0CE19BE7E}|GolBet.Web\\GolBet.Web.csproj|c:\\repositm\\golbet_progsoft_wv\\golbet.web\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{E81E5965-274E-DA5A-620D-7DD0CE19BE7E}|GolBet.Web\\GolBet.Web.csproj|solutionrelative:golbet.web\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -21,54 +53,166 @@
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
-          "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "DockedWidth": 321,
+          "SelectedChildIndex": 0,
           "Children": [
             {
-              "$type": "Bookmark",
-              "Name": "ST:133:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:134:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:135:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "20260827003033_InitialDatabase.cs",
+              "DocumentMoniker": "C:\\reposITM\\golbet_progsoft_wv\\GolBet.Repositories\\Migrations\\20260827003033_InitialDatabase.cs",
+              "RelativeDocumentMoniker": "GolBet.Repositories\\Migrations\\20260827003033_InitialDatabase.cs",
+              "ToolTip": "C:\\reposITM\\golbet_progsoft_wv\\GolBet.Repositories\\Migrations\\20260827003033_InitialDatabase.cs",
+              "RelativeToolTip": "GolBet.Repositories\\Migrations\\20260827003033_InitialDatabase.cs",
+              "ViewState": "AgIAAFkAAAAAAAAAAAAQwGsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-27T00:30:34.028Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "GolBet.Web",
+              "DocumentMoniker": "C:\\reposITM\\golbet_progsoft_wv\\GolBet.Web\\GolBet.Web.csproj",
+              "RelativeDocumentMoniker": "GolBet.Web\\GolBet.Web.csproj",
+              "ToolTip": "C:\\reposITM\\golbet_progsoft_wv\\GolBet.Web\\GolBet.Web.csproj",
+              "RelativeToolTip": "GolBet.Web\\GolBet.Web.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-08-27T00:27:01.181Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:139:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:138:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\reposITM\\golbet_progsoft_wv\\GolBet.Web\\Program.cs",
+              "RelativeDocumentMoniker": "GolBet.Web\\Program.cs",
+              "ToolTip": "C:\\reposITM\\golbet_progsoft_wv\\GolBet.Web\\Program.cs",
+              "RelativeToolTip": "GolBet.Web\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-27T00:24:02.96Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\reposITM\\golbet_progsoft_wv\\GolBet.Web\\appsettings.json",
+              "RelativeDocumentMoniker": "GolBet.Web\\appsettings.json",
+              "ToolTip": "C:\\reposITM\\golbet_progsoft_wv\\GolBet.Web\\appsettings.json",
+              "RelativeToolTip": "GolBet.Web\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-08-27T00:22:05.401Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\reposITM\\golbet_progsoft_wv\\GolBet.Repositories\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "GolBet.Repositories\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\reposITM\\golbet_progsoft_wv\\GolBet.Repositories\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "GolBet.Repositories\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAswDwAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-26T23:57:16.33Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Bet.cs",
+              "DocumentMoniker": "C:\\reposITM\\golbet_progsoft_wv\\GolBet.Entities\\Bet.cs",
+              "RelativeDocumentMoniker": "GolBet.Entities\\Bet.cs",
+              "ToolTip": "C:\\reposITM\\golbet_progsoft_wv\\GolBet.Entities\\Bet.cs",
+              "RelativeToolTip": "GolBet.Entities\\Bet.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-26T23:40:08.1Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Team.cs",
+              "DocumentMoniker": "C:\\reposITM\\golbet_progsoft_wv\\GolBet.Entities\\Team.cs",
+              "RelativeDocumentMoniker": "GolBet.Entities\\Team.cs",
+              "ToolTip": "C:\\reposITM\\golbet_progsoft_wv\\GolBet.Entities\\Team.cs",
+              "RelativeToolTip": "GolBet.Entities\\Team.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAgAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-26T23:39:25.852Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MatchStatus.cs",
+              "DocumentMoniker": "C:\\reposITM\\golbet_progsoft_wv\\GolBet.Entities\\Enums\\MatchStatus.cs",
+              "RelativeDocumentMoniker": "GolBet.Entities\\Enums\\MatchStatus.cs",
+              "ToolTip": "C:\\reposITM\\golbet_progsoft_wv\\GolBet.Entities\\Enums\\MatchStatus.cs",
+              "RelativeToolTip": "GolBet.Entities\\Enums\\MatchStatus.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-26T23:31:08.862Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "launchSettings.json",
               "DocumentMoniker": "C:\\reposITM\\golbet_progsoft_wv\\GolBet.Web\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "GolBet.Web\\Properties\\launchSettings.json",
               "ToolTip": "C:\\reposITM\\golbet_progsoft_wv\\GolBet.Web\\Properties\\launchSettings.json",
               "RelativeToolTip": "GolBet.Web\\Properties\\launchSettings.json",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAAA4AAAAgAAAAAAAAAA==",
+              "ViewState": "AgIAAAgAAAAAAAAAAABRwA4AAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2026-08-22T00:04:54.844Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 8,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\reposITM\\golbet_progsoft_wv\\GolBet.Web\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "GolBet.Web\\Views\\Shared\\_Layout.cshtml",
               "ToolTip": "C:\\reposITM\\golbet_progsoft_wv\\GolBet.Web\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "GolBet.Web\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAABoAAAAAAAAAAAAAACgAAABEAAAAAAAAAA==",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAACQAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2026-08-21T23:44:56.513Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 10,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\reposITM\\golbet_progsoft_wv\\GolBet.Web\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "GolBet.Web\\Views\\Home\\Index.cshtml",
@@ -78,6 +222,16 @@
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2026-08-21T23:44:45.321Z",
               "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 321,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
             }
           ]
         }
