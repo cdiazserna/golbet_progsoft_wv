@@ -10,5 +10,10 @@ public class MappingProfile : Profile
     public MappingProfile()
     {
         CreateMap<Match, MatchDto>();
+
+        CreateMap<Match, MatchDetailDto>()
+            .ForMember(dto => dto.TotalBets, //Destino
+                options => options.MapFrom(match => /*mapeo*/
+                    match.Bets.Count));      //Origen
     }
 }
